@@ -1,3 +1,22 @@
-body {
-  background-color: red;
+header {
+  color: beige;
+  background-color: rgb(73, 175, 178);
+}
+
+header img {
+  align-items: center;
+  height: 50dvh;
+}
+
+
+
+main img {
+
+  aspect-ratio: 1/1;
+  width: 100%;
+}
+
+.row-12 {
+  color: beige;
+  background-color: rgb(73, 175, 178);
 }
