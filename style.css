@@ -1,21 +1,58 @@
 header {
   
-  color: beige;
+  color: rgb(6, 46, 14);
   background-color: rgb(73, 175, 178);
 }
 
 
 
 header img {
-  justify-items: flex-end;
-  height: 50dvh;
+  height: 450px;
+  border: solid;
+
 }
 
+.navbar-logo {
+width: 4%;
+border-radius: 100%;
+aspect-ratio: 1/1;
+border: solid;
+border-color: black;
+}
 
 
 main img {
-
-  aspect-ratio: 1/1;
-  width: 100%;
+justify-items: center;
+height: 650px;
 }
 
+footer button {
+  color: aqua;
+}
+
+.footer-logo {
+  width: 4%;
+  border-radius: 100%;
+  aspect-ratio: 1/1;
+  border: solid;
+  border-color: black;
+  }
+  
+  .bg-image {
+  background-image: url(phoneimg.jpg);
+  object-fit: scale-down;
+  background-position: center;
+  background-size: cover;
+  border:solid; 
+  }
+
+  hr {
+    width: solid;
+    size: thick;
+    color: black;
+  }
+  
+  .phone-section {
+    min-height: 60vh;
+    font-size: large;
+    }
